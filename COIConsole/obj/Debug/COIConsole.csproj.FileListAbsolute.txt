@@ -1,0 +1,10 @@
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COIConsole\bin\Debug\COIConsole.exe.config
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COIConsole\bin\Debug\COIConsole.exe
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COIConsole\bin\Debug\COIConsole.pdb
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COIConsole\bin\Debug\COILibraryPoint.dll
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COIConsole\bin\Debug\COILibraryPoint.pdb
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COIConsole\obj\Debug\COIConsole.csprojResolveAssemblyReference.cache
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COIConsole\obj\Debug\COIConsole.csproj.CoreCompileInputs.cache
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COIConsole\obj\Debug\COIConsole.csproj.CopyComplete
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COIConsole\obj\Debug\COIConsole.exe
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COIConsole\obj\Debug\COIConsole.pdb

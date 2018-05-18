@@ -1,0 +1,11 @@
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COILibraryPoint\bin\Debug\COILibraryPoint.dll
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COILibraryPoint\bin\Debug\COILibraryPoint.pdb
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COILibraryPoint\obj\Debug\COILibraryPoint.csproj.CoreCompileInputs.cache
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COILibraryPoint\obj\Debug\COILibraryPoint.dll
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COILibraryPoint\obj\Debug\COILibraryPoint.pdb
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COILibraryPoint\bin\Debug\Castle.Core.dll
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COILibraryPoint\bin\Debug\Moq.dll
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COILibraryPoint\bin\Debug\Castle.Core.xml
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COILibraryPoint\bin\Debug\Moq.xml
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COILibraryPoint\obj\Debug\COILibraryPoint.csprojResolveAssemblyReference.cache
+c:\users\yurii_kalinchuk\source\repos\COILibraryPoint\COILibraryPoint\obj\Debug\COILibraryPoint.csproj.CopyComplete
